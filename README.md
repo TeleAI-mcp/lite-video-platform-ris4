@@ -1,2 +1,3 @@
-# lite-video-platform-ris4
+# Lite Video Platform Ris4
+
 A repository to test GitHub automation for issue management.
